@@ -1,0 +1,142 @@
+#menusuperior{
+    background-color: #303030;
+    font-family: "inter";
+    color: #FFFFFF;
+    width: 1450px;
+    height: 475px;
+    margin-top:-50px;
+    margin-bottom: -50px;
+}
+#titulomenusuperior{
+    Height:72px;
+    margin-left: 62px;
+    padding-top: 200px;
+    font-size: 60px;
+    line-height: 72px;
+    margin-bottom: 15px;
+    font-weight: 600;
+
+
+}
+#textomenusuperior{
+    margin-left: 62px;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 500;
+
+}
+
+#meritos{
+    background-color: #F9F9F9;
+    display:grid;
+    grid-auto-flow: column;
+    width: 1450px;
+    height: 229px;
+    margin-top: -10px;
+    font-family: "inter";
+  
+     
+}
+ #segundainformação{
+ margin-left: -65px;
+ }
+ 
+ #terceirainformação{
+    padding-right: 100px;
+}
+.numeros{
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 28px;
+    margin-top: 100px;
+    margin-left: 160px;
+}
+.texto{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-left: 160px;
+    margin-top: -20px;
+}
+#menuinformacional{
+    display: grid;
+    grid-auto-flow:column;
+    width: 1450px;
+    height: 875px;
+    
+}
+#imageninformacional{
+    margin-top: 19%;
+    margin-right: 50px;
+}
+
+#textoinformacional{
+    font-family: "inter";
+    margin-left: 70px;
+    width: 735px;
+    height: 161px;
+    margin-top: 250px;
+    margin-left: 77px;
+
+
+}
+
+#tituloinformacional{
+    font-size: 40px;
+    font-weight: 535;
+    line-height: 20px;  
+}
+
+#paragrafoinformacional{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 30px;
+    
+}
+#formulario{
+    background-color: #303030;
+    width: 1440px;
+    height: 638px;
+    text-align: center;
+    margin-top: -90px;
+}
+#tituloformulario{
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    color: #FFFFFF;
+    padding-top: 100px;
+}
+input{
+    width: 508px;
+    height: 72px;
+    background-color: #FFFFFF;
+    margin: 25px;
+    border: 0px;
+    border-radius: 10px;
+    padding-left: 30px;
+    font-weight: 800;
+    font-size: 24px;
+    line-height:30px;
+    color:#0000004D;
+    font-family:"raleway";
+}
+button{
+    background-color: #C07212;
+    width: 286px;
+    height: 74px;
+    border: 0px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-family:"raleway";
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: center;
+}
+
+
+
+
